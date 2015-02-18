@@ -1,0 +1,33 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="UserManager.master.cs"
+    Inherits="Admin.Outside.UserManager" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="NavContent" runat="server">
+    <div data-options="region:'west',split:true" title="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;用户管理"
+        style="width: 180px;">
+        <div class="easyui-accordion" data-options="fit:true,border:false">
+            <div title="会员管理" style="padding: 10px;">
+                <ul class="nav" >
+                    <li><a>会员管理</a></li>
+                    <li><a>实名认证审核</a></li>
+                    <li><a>用户标签管理</a></li>
+                    <li><a>实名认证审核</a></li>
+                </ul>
+            </div>
+            <div title="积分管理" data-options="selected:true" style="padding: 10px;">
+                <ul class="nav" >
+                    <li><a>积分规则管理</a></li>
+                    <li><a>积分限制管理</a></li>
+                </ul>
+            </div>
+            <div title="企业商家管理" style="padding: 10px">
+                 暂无
+            </div>
+        </div>
+    </div>
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="MainContent" runat="server">
+    <asp:ContentPlaceHolder ID="CpContent" runat="server">
+    </asp:ContentPlaceHolder>
+</asp:Content>

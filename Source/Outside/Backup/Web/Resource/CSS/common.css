@@ -1,0 +1,149 @@
+﻿body
+{
+}
+.section
+{
+    padding: 50px 20px 20px 20px;
+    color: #ff0084;
+    clear: both;
+     font-size:.9em;
+}
+.portrait
+{
+    width: 170px;
+    border-radius: 10px;
+}
+.container
+{
+    min-height: 200px;
+    padding: 20px;
+    width: 600px; 
+    border-radius: 20px;
+    
+}
+#left
+{
+    margin-left:5%;
+    margin-right: 30px;
+    float: left;
+}
+
+#right
+{
+    float: left;
+    margin-left: 30px;
+    margin-top:20px;
+}
+
+#mContent
+{
+    clear: both;
+}
+
+.user
+{
+    width: 50px;
+    height: 50px;
+    margin-left: 10PX;
+    float: left;
+}
+
+.user img
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+}
+
+.user .name
+{
+    color: #0073ea;
+    text-align: center;
+    padding: 5px;
+}
+
+.Scontainer
+{
+    min-height: 100px;
+    max-height: 200PX;
+    padding: 10px;
+    width: 300px;
+}
+
+.aItem
+{
+    height: 150px;
+    float: left;
+    margin-left: 10px;
+}
+
+
+.scroll-pane
+{
+    overflow: hidden;
+    width: 600px;
+    float: left;
+    padding: 10px;
+    background: none;
+    background-color: #e9f0f6;
+    border-width: 0;
+    border-radius: 20px;
+}
+.scroll-content
+{
+    min-width: 1950px;
+    float: left;
+    min-height: 150px;
+    font-weight:normal;
+}
+.scroll-content-item
+{
+    background: none;
+    min-width: 100px;
+    height: 170px;
+    float: left;
+    margin: 15px;
+    text-align: center;
+    vertical-align: bottom;
+    font-size: 11px;
+    padding: 8px;
+    background-color: White;
+}
+
+.scroll-content-item img
+{
+    height: 150px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+.scroll-bar-wrap
+{
+    clear: left;
+    padding: 0 4px 0 2px;
+    margin: 0 -1px -1px -1px;
+}
+.scroll-bar-wrap .ui-slider
+{
+    background: none;
+    border: 0;
+    height: 2em;
+    margin: 0 auto;
+}
+.scroll-bar-wrap .ui-handle-helper-parent
+{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+.scroll-bar-wrap .ui-slider-handle
+{
+    top: .2em;
+    height: 1.5em;
+}
+.scroll-bar-wrap .ui-slider-handle .ui-icon
+{
+    margin: -8px auto 0;
+    position: relative;
+    top: 50%;
+}

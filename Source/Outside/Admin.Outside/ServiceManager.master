@@ -1,0 +1,25 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="ServiceManager.master.cs"
+    Inherits="Admin.Outside.ServiceManager" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="NavContent" runat="server">
+    <div data-options="region:'west',split:true" title="客服管理" style="width: 200px;">
+        <div class="easyui-accordion" data-options="fit:true,border:false">
+            <div title="站内信" style="padding: 10px;">
+                <ul class="nav">
+                    <li><a>发件箱</a></li>
+                    <li><a>发消息</a></li>
+                </ul>
+            </div>
+            <div title="留言列表" data-options="selected:true" style="padding: 10px;">
+                <ul class="nav">
+                    <li><a>留言列表</a></li>
+                    <li><a>客户反馈</a></li>
+                </ul>
+            </div> 
+        </div>
+    </div>
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="MainContent" runat="server">
+</asp:Content>

@@ -1,0 +1,23 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true"
+    CodeBehind="Mater4Self.master.cs" Inherits="Suzy.Outside.Web.Mater4Self" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+    <link href="/Resource/CSS/nav.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="JsCode" runat="server">
+    <asp:ContentPlaceHolder ID="JsCode" runat="server">
+    </asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+   <div id="nav">
+        <ul>
+            <li><a href="/Home.aspx">关于Wo</a></li>
+            <li><a id="LnkPto" href="/Photo/SelfPhotoWall.aspx">Wo的相簿</a></li>
+            <li><a href="#">Wo的文字</a></li>
+        </ul>
+    </div>
+    <asp:ContentPlaceHolder ID="main" runat="server">
+    </asp:ContentPlaceHolder>
+</asp:Content>

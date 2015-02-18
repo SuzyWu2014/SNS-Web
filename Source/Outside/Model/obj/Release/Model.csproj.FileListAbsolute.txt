@@ -1,0 +1,3 @@
+E:\GitHub\fjnu.getgoing\Source\Outside\Model\bin\Release\Suzy.Outside.Model.dll
+E:\GitHub\fjnu.getgoing\Source\Outside\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+E:\GitHub\fjnu.getgoing\Source\Outside\Model\obj\Release\Suzy.Outside.Model.dll

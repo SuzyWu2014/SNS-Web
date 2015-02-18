@@ -1,0 +1,15 @@
+D:\毕设\DEMO\Outside\Model\bin\Debug\Suzy.Outside.Model.dll
+D:\毕设\DEMO\Outside\Model\bin\Debug\Suzy.Outside.Model.pdb
+D:\毕设\DEMO\Outside\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\毕设\DEMO\Outside\Model\obj\Debug\Suzy.Outside.Model.dll
+D:\毕设\DEMO\Outside\Model\obj\Debug\Suzy.Outside.Model.pdb
+D:\毕设\Test\Outside\Model\bin\Debug\Suzy.Outside.Model.dll
+D:\毕设\Test\Outside\Model\bin\Debug\Suzy.Outside.Model.pdb
+D:\毕设\Test\Outside\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\毕设\Test\Outside\Model\obj\Debug\Suzy.Outside.Model.dll
+D:\毕设\Test\Outside\Model\obj\Debug\Suzy.Outside.Model.pdb
+D:\毕设\Source\Outside\Model\bin\Debug\Suzy.Outside.Model.dll
+D:\毕设\Source\Outside\Model\bin\Debug\Suzy.Outside.Model.pdb
+D:\毕设\Source\Outside\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\毕设\Source\Outside\Model\obj\Debug\Suzy.Outside.Model.dll
+D:\毕设\Source\Outside\Model\obj\Debug\Suzy.Outside.Model.pdb

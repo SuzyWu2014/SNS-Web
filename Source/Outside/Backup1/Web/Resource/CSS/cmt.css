@@ -1,0 +1,26 @@
+﻿
+body
+{
+}
+.cmtItem
+{
+       clear:both;
+      height:70px;
+}
+.cmtLeft
+{
+     float:left;
+    width:85px;
+}
+.cmtRight
+{
+    float: left;
+}
+.cmtRup
+{
+    background-color:White;
+    width:300px;
+}
+.cmtCon
+{
+}

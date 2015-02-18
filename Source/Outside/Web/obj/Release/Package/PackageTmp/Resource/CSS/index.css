@@ -1,0 +1,56 @@
+﻿
+body
+{
+}
+
+.Simg
+{
+    width: 240px;
+}
+.Act
+{
+    margin: 10px;
+    float: left;
+    border: 15px solid White;
+    display: inline;
+    margin: 0 10px 10px 0;
+    padding: 3px;
+    background-color: White;
+}
+.intro
+{
+    width: 240px;
+    margin-top: 10px;
+    color: Gray;
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+}
+#options
+{
+    vertical-align: middle;
+}
+#options select
+{
+    width: 85px;
+    height: 25px;
+    color: Gray;
+    vertical-align: middle;
+}
+
+#optWrap
+{
+    height: 50px;
+    margin: 30px auto 10px 60px;
+    padding: 10px auto 10px auto;
+}
+
+#container
+{
+    margin: auto auto auto 50px;
+}
+.msg
+{
+    margin: auto 40%;
+    
+}

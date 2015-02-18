@@ -1,0 +1,41 @@
+﻿body
+{
+}
+.main
+{
+    margin: 30px 15% 100px 10%;
+    left: 50%;
+    margin-left:  250px;
+}
+.headTitle
+{
+     margin-top:50px;
+    margin-left: 150px;
+    font-size: 2em;
+}
+.item
+{
+    float: left;
+    margin-right: 30px;
+    width: 200px;
+}
+.img
+{
+}
+
+.img img
+{
+    width: 150px;
+    border-radius: 100px;
+    border: 10px solid white;
+}
+.title
+{
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.des
+{
+}

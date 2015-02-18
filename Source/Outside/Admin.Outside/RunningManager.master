@@ -1,0 +1,22 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="RunningManager.master.cs"
+    Inherits="Admin.Outside.RunningManager" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="NavContent" runat="server">
+    <div data-options="region:'west',split:true" title="West" style="width: 200px;">
+        <div class="easyui-accordion" data-options="fit:true,border:false">
+            <div title="Title1" style="padding: 10px;">
+                content1
+            </div>
+            <div title="Title2" data-options="selected:true" style="padding: 10px;">
+                content2
+            </div>
+            <div title="Title3" style="padding: 10px">
+                content3
+            </div>
+        </div>
+    </div>
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="MainContent" runat="server">
+</asp:Content>

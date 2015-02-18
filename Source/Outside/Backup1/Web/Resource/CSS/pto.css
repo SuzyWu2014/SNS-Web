@@ -1,0 +1,33 @@
+﻿body
+{
+}
+.box
+{
+    margin: 10px;
+    float: left;
+    border: 15px solid White;
+    display: inline;
+    margin: 0 10px 10px 0;
+    padding: 3px;
+    background-color: White;
+}
+#container
+{
+    clear: both;
+    margin: auto:auto;
+}
+
+.item
+{
+    float: left;
+    border: 3px solid White;
+    display: inline;
+    margin: 3px;
+    padding: 3px;
+    background-color: White;
+}
+#options
+{
+     margin-bottom:20px;
+    margin-left:30px;
+    }

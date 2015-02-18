@@ -1,0 +1,7 @@
+E:\GitHub\fjnu.getgoing\Source\Outside\DBUtility\bin\Release\Suzy.Outside.DBUtility.dll
+E:\GitHub\fjnu.getgoing\Source\Outside\DBUtility\bin\Release\IBatisNet.Common.dll
+E:\GitHub\fjnu.getgoing\Source\Outside\DBUtility\bin\Release\IBatisNet.DataMapper.dll
+E:\GitHub\fjnu.getgoing\Source\Outside\DBUtility\bin\Release\MySql.Data.dll
+E:\GitHub\fjnu.getgoing\Source\Outside\DBUtility\bin\Release\System.Data.SQLite.DLL
+E:\GitHub\fjnu.getgoing\Source\Outside\DBUtility\obj\Release\DBUtility.csprojResolveAssemblyReference.cache
+E:\GitHub\fjnu.getgoing\Source\Outside\DBUtility\obj\Release\Suzy.Outside.DBUtility.dll

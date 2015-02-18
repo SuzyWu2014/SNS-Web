@@ -1,0 +1,14 @@
+E:\GitHub\fjnu.getgoing\Source\Outside\BLL\bin\Release\Suzy.Outside.BLL.dll
+E:\GitHub\fjnu.getgoing\Source\Outside\BLL\bin\Release\Suzy.Outside.Common.dll
+E:\GitHub\fjnu.getgoing\Source\Outside\BLL\bin\Release\Suzy.Outside.DAL.dll
+E:\GitHub\fjnu.getgoing\Source\Outside\BLL\bin\Release\Suzy.Outside.Model.dll
+E:\GitHub\fjnu.getgoing\Source\Outside\BLL\bin\Release\OpenSmtp.dll
+E:\GitHub\fjnu.getgoing\Source\Outside\BLL\bin\Release\Excel.dll
+E:\GitHub\fjnu.getgoing\Source\Outside\BLL\bin\Release\COM.Excel.dll
+E:\GitHub\fjnu.getgoing\Source\Outside\BLL\bin\Release\Suzy.Outside.DBUtility.dll
+E:\GitHub\fjnu.getgoing\Source\Outside\BLL\bin\Release\IBatisNet.DataMapper.dll
+E:\GitHub\fjnu.getgoing\Source\Outside\BLL\bin\Release\IBatisNet.Common.dll
+E:\GitHub\fjnu.getgoing\Source\Outside\BLL\bin\Release\System.Data.SQLite.dll
+E:\GitHub\fjnu.getgoing\Source\Outside\BLL\bin\Release\MySql.Data.dll
+E:\GitHub\fjnu.getgoing\Source\Outside\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+E:\GitHub\fjnu.getgoing\Source\Outside\BLL\obj\Release\Suzy.Outside.BLL.dll

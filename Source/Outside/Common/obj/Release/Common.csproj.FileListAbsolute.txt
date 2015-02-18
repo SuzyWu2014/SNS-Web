@@ -1,0 +1,7 @@
+E:\GitHub\fjnu.getgoing\Source\Outside\Common\bin\Release\Suzy.Outside.Common.dll
+E:\GitHub\fjnu.getgoing\Source\Outside\Common\bin\Release\COM.Excel.dll
+E:\GitHub\fjnu.getgoing\Source\Outside\Common\bin\Release\Excel.dll
+E:\GitHub\fjnu.getgoing\Source\Outside\Common\bin\Release\OpenSmtp.dll
+E:\GitHub\fjnu.getgoing\Source\Outside\Common\bin\Release\OWC10Chart.dll
+E:\GitHub\fjnu.getgoing\Source\Outside\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+E:\GitHub\fjnu.getgoing\Source\Outside\Common\obj\Release\Suzy.Outside.Common.dll

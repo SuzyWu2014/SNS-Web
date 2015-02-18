@@ -1,0 +1,65 @@
+﻿body
+{
+}
+#content
+{
+}
+
+.poster
+{
+    float: left;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.header
+{
+    text-align: left;
+    float: left;
+    font-weight: bold;
+    margin-right: 10px;
+}
+.intro
+{
+    float: left;
+}
+
+.introWrap
+{
+    margin-bottom: 30px;
+}
+
+#topic
+{
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 10px auto 10px;
+}
+
+#timeDes, #actType, #fee, #sponsor, #place, #count, #dp
+{
+    margin-bottom: 10px;
+}
+
+
+
+.detail
+{
+    clear: both;
+    min-height: 200px;
+}
+
+.ptos
+{
+    min-height: 200px;
+}
+
+.cmts
+{
+    min-height: 200px;
+}
+
+#count label
+{
+    color: #ff0084;
+    font-weight: bold;
+}

@@ -1,0 +1,47 @@
+﻿body
+{
+}
+
+.left
+{
+    float: left;
+    width: 700px;
+    min-height: 500px;
+}
+
+.left .img
+{
+    float: left;
+    margin-left: 100px;
+}
+
+.left .img img
+{
+    border: 15px solid White;
+}
+.right
+{
+    float: left;
+    margin-left: 20px;
+    padding-top: 50px;
+}
+
+rFloat
+{
+    float: right;
+}
+
+info
+{
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+ 
+.section
+{
+    padding: 50px 20px 20px 20px;
+    color: #ff0084;
+    clear: both;
+    font-size: .9em;
+}

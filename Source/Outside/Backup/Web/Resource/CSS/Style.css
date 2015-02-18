@@ -1,0 +1,104 @@
+body
+{
+    min-height: 700px;
+    min-width: 900px;
+    background-color: #e9f0f6;
+    padding-left: 3%;
+    padding-right: 3%;
+    color: #333333;
+    font-size: .8em;
+    vertical-align: middle;
+    font-family: Comic Sans Ms;
+}
+
+#top
+{
+    margin-top: 15px;
+    height: 150px;
+    width:400px;
+      float:left;
+}
+#logo
+{
+    float: left;
+    padding-left: 60px;
+    padding-top: 10px;
+}
+#topRight
+{
+    float: right;
+    margin-right:10%;
+    width:500px;
+}
+#divSear
+{
+    float:left; 
+    clear:right; 
+    margin-top:20px;
+     margin-left:70px;
+}
+#banner
+{ 
+   float:right; 
+}
+#main
+{
+    clear: both;
+}
+
+#footer
+{
+    margin-bottom: -10px;
+    margin-top: 50px;
+}
+img
+{
+    border-width: 0px;
+}
+
+.lnk
+{
+    padding: 10px;
+    color: #ff0084;
+}
+.num
+{
+    color: #ff0084;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+
+
+#banner ul
+{
+    list-style-type: none;
+    margin: 10px;
+}
+#banner span
+{
+    float: left;
+    margin-right: .2em;
+}
+#banner ul li
+{
+    margin: 2px;
+    float: left;
+}
+#banner ul li a
+{
+    padding: 10px;
+    float: left;
+    color: #ff0084;
+}
+#banner ul li a:hover
+{
+    padding: 10px;
+    color: White;
+}
+
+#banner ul li a:visited
+{
+    padding: 10px;
+    color: #0073ea;
+}

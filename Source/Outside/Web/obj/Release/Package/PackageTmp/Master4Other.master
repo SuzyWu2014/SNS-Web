@@ -1,0 +1,30 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true"
+    CodeBehind="Master4Other.master.cs" Inherits="Suzy.Outside.Web.Master4Other" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+    <link href="/Resource/CSS/nav.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="JsCode" runat="server">
+    <asp:ContentPlaceHolder ID="JsCode" runat="server">
+    </asp:ContentPlaceHolder>
+    <script type="text/javascript"> 
+        $(function () {
+            $("#lnkPto").attr("href", "/Photo/photoWall.aspx?uid=" + $("#uid").val());
+            $("#lnkHome").attr("href", "/Account/Member.aspx?uid=" + $("#uid").val());
+        });
+    </script>
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+     <div id="nav">
+        <ul>
+            <li><a id="lnkHome" href="">关于TA</a></li>
+            <li><a  id="lnkPto" href="">TA的相簿</a></li>
+            <li><a href="#">TA的文字</a></li>
+        </ul>
+    </div>
+    <input type="hidden" name="uid" value="" id="uid" />
+    <asp:ContentPlaceHolder ID="main" runat="server">
+    </asp:ContentPlaceHolder>
+</asp:Content>

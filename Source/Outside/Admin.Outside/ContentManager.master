@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="ContentManager.master.cs"
+    Inherits="Admin.Outside.ContentManager" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
+    <asp:ContentPlaceHolder ID="cphHead" runat="server">
+    </asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="NavContent" runat="server">
+    <div data-options="region:'west',split:true" title="内容管理" style="width: 200px;">
+        <div class="easyui-accordion" data-options="fit:true,border:false">
+            <div title="活动管理" style="padding: 10px;">
+                <ul class="nav">
+                    <li><a>类型管理</a></li>
+                    <li><a>活动审核</a></li>
+                    <li><a>活动管理</a></li>
+                </ul>
+            </div>
+            <div title="文字管理" data-options="selected:true" style="padding: 10px;">
+                <ul class="nav">
+                    <li><a>评论管理</a></li>
+                    <li><a>文章管理</a></li>
+                    <li><a>Idea审核</a></li>
+                </ul>
+            </div>
+            <div title="照片管理" style="padding: 10px">
+                <ul class="nav">
+                    <li><a>相册管理</a></li>
+                    <li><a>图片管理</a></li>
+                    <li><a>图片分类</a></li>
+                </ul>
+            </div>
+            <div title="功能设置" style="padding: 10px">
+                <ul class="nav">
+                    <li><a>SEO优化设置</a></li>
+                    <li><a>静态页面生成</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="MainContent" runat="server">
+    <asp:ContentPlaceHolder ID="cphMainContent" runat="server">
+    </asp:ContentPlaceHolder>
+</asp:Content>
